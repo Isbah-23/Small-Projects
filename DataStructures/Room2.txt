@@ -1,0 +1,11 @@
+9 7
+2 4
+bbbbbbb
+bXXX00b
+bXX000b
+bXX0X0b
+bXX0X0b
+b000P0b
+b0XXXXb
+bTXXXXb
+bbbbbbb

@@ -1,0 +1,13 @@
+11 8
+1 3
+bbbbbbbb
+bXX0000b
+bXXDX0Xb
+bXX0X0Xb
+bXXXX0Xb
+b000000b
+b0XXXX0b
+b0XXXXPb
+b00XXX0b
+bX00GX0b
+bbbbbbbb
